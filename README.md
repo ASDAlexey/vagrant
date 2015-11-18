@@ -7,3 +7,9 @@ Installed Software
 - MySQL Server
 - PHP
 - PHPMyAdmin
+- nodejs
+- npm
+- gulp
+- compass --version 0.12.6
+- responder
+- grunt-cli
